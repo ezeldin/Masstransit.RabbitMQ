@@ -30,3 +30,4 @@ D:\WorkSpace\Training\DemandManagment\DemandManagment.Api\obj\Debug\netcoreapp3.
 D:\WorkSpace\Training\DemandManagment\DemandManagment.Api\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.dll
 D:\WorkSpace\Training\DemandManagment\DemandManagment.Api\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.pdb
 D:\WorkSpace\Training\DemandManagment\DemandManagment.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\WorkSpace\Training\DemandManagment\DemandManagment.Api\obj\Debug\netcoreapp3.1\DemandManagment.Api.GeneratedMSBuildEditorConfig.editorconfig

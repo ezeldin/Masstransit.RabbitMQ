@@ -24,3 +24,4 @@ D:\WorkSpace\Training\DemandManagment\DemandMangement.ThirdParty.Service\bin\Deb
 D:\WorkSpace\Training\DemandManagment\DemandMangement.ThirdParty.Service\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.dll
 D:\WorkSpace\Training\DemandManagment\DemandMangement.ThirdParty.Service\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.pdb
 D:\WorkSpace\Training\DemandManagment\DemandMangement.ThirdParty.Service\obj\Debug\netcoreapp3.1\DemandMangement.ThirdParty.Service.csproj.CopyComplete
+D:\WorkSpace\Training\DemandManagment\DemandMangement.ThirdParty.Service\obj\Debug\netcoreapp3.1\DemandMangement.ThirdParty.Service.GeneratedMSBuildEditorConfig.editorconfig
