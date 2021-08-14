@@ -24,3 +24,4 @@ D:\WorkSpace\Training\DemandManagment\DemandManagement.Notification\bin\Debug\ne
 D:\WorkSpace\Training\DemandManagment\DemandManagement.Notification\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.dll
 D:\WorkSpace\Training\DemandManagment\DemandManagement.Notification\bin\Debug\netcoreapp3.1\DemandManagment.MessagesContract.pdb
 D:\WorkSpace\Training\DemandManagment\DemandManagement.Notification\obj\Debug\netcoreapp3.1\DemandManagement.Notification.csproj.CopyComplete
+D:\WorkSpace\Training\DemandManagment\DemandManagement.Notification\obj\Debug\netcoreapp3.1\DemandManagement.Notification.GeneratedMSBuildEditorConfig.editorconfig

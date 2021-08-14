@@ -7,3 +7,4 @@ D:\WorkSpace\Training\DemandManagment\DemandManagment.MessagesContract\obj\Debug
 D:\WorkSpace\Training\DemandManagment\DemandManagment.MessagesContract\obj\Debug\netcoreapp3.1\DemandManagment.MessagesContract.dll
 D:\WorkSpace\Training\DemandManagment\DemandManagment.MessagesContract\obj\Debug\netcoreapp3.1\DemandManagment.MessagesContract.pdb
 D:\WorkSpace\Training\DemandManagment\DemandManagment.MessagesContract\obj\Debug\netcoreapp3.1\DemandManagment.MessagesContract.csproj.AssemblyReference.cache
+D:\WorkSpace\Training\DemandManagment\DemandManagment.MessagesContract\obj\Debug\netcoreapp3.1\DemandManagment.MessagesContract.GeneratedMSBuildEditorConfig.editorconfig
