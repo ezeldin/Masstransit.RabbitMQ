@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandManagment.Api", "DemandManagment.Api\DemandManagment.Api.csproj", "{AA3D4757-33FE-45BC-BFDA-A79C9E87D163}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemandManagment.Api", "DemandManagment.Api\DemandManagment.Api.csproj", "{AA3D4757-33FE-45BC-BFDA-A79C9E87D163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandManagment.MessagesContract", "DemandManagment.MessagesContract\DemandManagment.MessagesContract.csproj", "{769B3916-ED76-4DC8-B38B-9D44E9C746DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemandManagment.MessagesContract", "DemandManagment.MessagesContract\DemandManagment.MessagesContract.csproj", "{769B3916-ED76-4DC8-B38B-9D44E9C746DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandManagment.Registration", "DemandManagment.Registration\DemandManagment.Registration.csproj", "{746EE7B3-9FC7-43F2-A87B-21794880B5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemandManagment.Registration", "DemandManagment.Registration\DemandManagment.Registration.csproj", "{746EE7B3-9FC7-43F2-A87B-21794880B5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandManagement.Notification", "DemandManagement.Notification\DemandManagement.Notification.csproj", "{67F55579-F989-4C21-881E-852DD448F3EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemandManagement.Notification", "DemandManagement.Notification\DemandManagement.Notification.csproj", "{67F55579-F989-4C21-881E-852DD448F3EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandMangement.ThirdParty.Service", "DemandMangement.ThirdParty.Service\DemandMangement.ThirdParty.Service.csproj", "{7140ECFD-38E6-498C-9C8E-8125DD714F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemandMangement.ThirdParty.Service", "DemandMangement.ThirdParty.Service\DemandMangement.ThirdParty.Service.csproj", "{7140ECFD-38E6-498C-9C8E-8125DD714F81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ticketing", "Ticketing", "{985628F5-0D91-4078-BEB8-34DD819AF48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Api", "Ticketing.Api\Ticketing.Api.csproj", "{085EA91B-0F99-4550-83B0-ABCE9C82C047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Consumer", "Ticketing.Consumer\Ticketing.Consumer.csproj", "{22FA420E-9823-4DF7-8BFA-57DBBF20FA43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +45,21 @@ Global
 		{7140ECFD-38E6-498C-9C8E-8125DD714F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7140ECFD-38E6-498C-9C8E-8125DD714F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7140ECFD-38E6-498C-9C8E-8125DD714F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085EA91B-0F99-4550-83B0-ABCE9C82C047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085EA91B-0F99-4550-83B0-ABCE9C82C047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085EA91B-0F99-4550-83B0-ABCE9C82C047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085EA91B-0F99-4550-83B0-ABCE9C82C047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FA420E-9823-4DF7-8BFA-57DBBF20FA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FA420E-9823-4DF7-8BFA-57DBBF20FA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FA420E-9823-4DF7-8BFA-57DBBF20FA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FA420E-9823-4DF7-8BFA-57DBBF20FA43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{085EA91B-0F99-4550-83B0-ABCE9C82C047} = {985628F5-0D91-4078-BEB8-34DD819AF48D}
+		{22FA420E-9823-4DF7-8BFA-57DBBF20FA43} = {985628F5-0D91-4078-BEB8-34DD819AF48D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6B12DE1-E943-4B2E-81A3-4D474220FBA5}
